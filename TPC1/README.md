@@ -12,12 +12,5 @@ Este projeto envolve a análise de um dataset contendo estatísticas de atletas 
 ### Metodologia
 A análise será realizada através da leitura e processamento do dataset utilizando ferramentas de análise de dados em Python. Os resultados serão organizados e apresentados de maneira clara para facilitar a interpretação.
 
-### Requisitos
-- Python 3.8 ou superior.
-- Bibliotecas de análise de dados como Pandas e NumPy.
 
-### Instruções de Uso
-Para executar a análise, siga estas etapas simples:
-1. Garanta que todas as dependências estão instaladas:
-   ```bash
-   pip install pandas numpy
+
