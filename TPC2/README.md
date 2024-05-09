@@ -1,4 +1,4 @@
-# Conversor Simples de Markdown para HTML
+# TPC2: Conversor Simples de Markdown para HTML
 **Autor: João Alexandre Antunes da Costa Barroso, A95195**
 
 ## Visão Geral do Processamento

@@ -1,4 +1,4 @@
-# Conversor Simples de Markdown para HTML
+# TPC3: Somador On/Off
 **Autor: João Alexandre Antunes da Costa Barroso, A95195**
 
 ## Descrição Detalhada do Funcionamento
