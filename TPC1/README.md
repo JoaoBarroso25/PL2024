@@ -1,6 +1,7 @@
 TPC1: Análise de um dataset com estatisticas de atletas
 
-Autor
+Autor:
+
 A95195
 João Alexandre Antunes da Costa Barroso
 
