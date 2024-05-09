@@ -1,0 +1,92 @@
+[
+    {
+        "codigo": "31",
+        "nome": "Chocolate Bar",
+        "quantidade": 20,
+        "preco": 1.00
+    },
+    {
+        "codigo": "32",
+        "nome": "Refrigerante Lata",
+        "quantidade": 15,
+        "preco": 1.20
+    },
+    {
+        "codigo": "33",
+        "nome": "Água Mineral",
+        "quantidade": 30,
+        "preco": 0.90
+    },
+    {
+        "codigo": "34",
+        "nome": "Biscoito Recheado",
+        "quantidade": 12,
+        "preco": 1.10
+    },
+    {
+        "codigo": "35",
+        "nome": "Salgadinho de Pacote",
+        "quantidade": 10,
+        "preco": 1.50
+    },
+    {
+        "codigo": "36",
+        "nome": "Bolo de Caneca",
+        "quantidade": 5,
+        "preco": 2.00
+    },
+    {
+        "codigo": "37",
+        "nome": "Pastel de Belém",
+        "quantidade": 8,
+        "preco": 2.20
+    },
+    {
+        "codigo": "38",
+        "nome": "Chips de Batata",
+        "quantidade": 25,
+        "preco": 1.30
+    },
+    {
+        "codigo": "39",
+        "nome": "Muffin de Blueberry",
+        "quantidade": 7,
+        "preco": 2.50
+    },
+    {
+        "codigo": "40",
+        "nome": "Goma de Mascar",
+        "quantidade": 50,
+        "preco": 0.50
+    },
+    {
+        "codigo": "41",
+        "nome": "Iogurte Natural",
+        "quantidade": 9,
+        "preco": 1.60
+    },
+    {
+        "codigo": "42",
+        "nome": "Sanduíche Mista",
+        "quantidade": 10,
+        "preco": 3.00
+    },
+    {
+        "codigo": "43",
+        "nome": "Barra de Cereal",
+        "quantidade": 15,
+        "preco": 1.25
+    },
+    {
+        "codigo": "44",
+        "nome": "Sumo de Laranja",
+        "quantidade": 12,
+        "preco": 1.75
+    },
+    {
+        "codigo": "45",
+        "nome": "Café Gelado",
+        "quantidade": 8,
+        "preco": 2.00
+    }
+]

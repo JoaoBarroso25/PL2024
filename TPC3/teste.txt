@@ -1,0 +1,4 @@
+on 100 200 off 300 on 50 25 off =
+on 10 20 on 30 40 off 50 60 on 70 off =
+off 999 on 888 = off 777 on 666 =
+= on 111 222 333 off 444 555 on 666 777 888 off =
