@@ -9,8 +9,5 @@ Este projeto envolve a análise de um dataset contendo estatísticas de atletas 
 - **Calcular Percentagens de Aptidão:** Determinar as percentagens de atletas aptos e inaptos para a prática desportiva.
 - **Distribuição por Escalão Etário:** Apresentar a distribuição de atletas por escalão etário, considerando intervalos de 5 anos (por exemplo, [30-34], [35-39], etc.).
 
-### Metodologia
-A análise será realizada através da leitura e processamento do dataset utilizando ferramentas de análise de dados em Python. Os resultados serão organizados e apresentados de maneira clara para facilitar a interpretação.
-
 
 
