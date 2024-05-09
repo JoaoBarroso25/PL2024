@@ -6,7 +6,7 @@ Este projeto consiste na simulação de uma máquina de vending, desenvolvido pa
 
 ### Funcionalidades Implementadas
 - O simulador permite a interação com um inventário de produtos que são carregados de um arquivo JSON.
-- O arquivo `items.json` contém informações essenciais sobre cada item, incluindo código, nome, quantidade disponível e preço.
+- O arquivo `vending_products.json` contém informações essenciais sobre cada item, incluindo código, nome, quantidade disponível e preço.
 
 ### Instruções de Uso
 Para executar o programa, utilize o seguinte comando no terminal:
